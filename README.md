@@ -1,15 +1,15 @@
 # SimulateEvolutionUnity
 
-Данная программа симулирует эволюцию организмов.
+Данная программа симулирует эволюцию организмов. О принципах её работы можно почитать тут https://drive.google.com/drive/folders/1bsRVgcPly1UKehxQClxz7igIaMlTwdRI?usp=drive_link
 
 ## Пояснения к интерфейсу
 
 
-![]({{site.baseurl}}info-0.png)![info-0.png]({{site.baseurl}}/info-0.png)
-![]({{site.baseurl}}info-1.png)![info-1.png]({{site.baseurl}}/info-1.png)
-![]({{site.baseurl}}info-2.png)![info-2.png]({{site.baseurl}}/info-2.png)
-![]({{site.baseurl}}info-3.png)![info-3.png]({{site.baseurl}}/info-3.png)
-![]({{site.baseurl}}info-4.png)![info-4.png]({{site.baseurl}}/info-4.png)
+![alt text](https://github.com/Alecsandr-Medvedev/SimulateEvolutionUnity/blob/main/Images/info-0.png?raw=true)
+![alt text](https://github.com/Alecsandr-Medvedev/SimulateEvolutionUnity/blob/main/Images/info-1.png?raw=true)
+![alt text](https://github.com/Alecsandr-Medvedev/SimulateEvolutionUnity/blob/main/Images/info-2.png?raw=true)
+![alt text](https://github.com/Alecsandr-Medvedev/SimulateEvolutionUnity/blob/main/Images/info-3.png?raw=true)
+![alt text](https://github.com/Alecsandr-Medvedev/SimulateEvolutionUnity/blob/main/Images/info-4.png?raw=true)
 ## Дополнительные возможности
 
 - Кнопка пробела ставит программу на паузу
